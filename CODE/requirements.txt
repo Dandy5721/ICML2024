@@ -1,0 +1,12 @@
+# Minimal, platform-independent dependency list (the original requirements.yml
+# was a UTF-16, Windows-only `conda env export` with pinned build hashes that
+# cannot be installed on Linux/macOS or from PyPI as-is; see
+# requirements-original-windows.yml for that exact original file, re-encoded
+# to UTF-8 for reference).
+torch>=2.0
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+tqdm
