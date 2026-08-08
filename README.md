@@ -1,6 +1,6 @@
 # DeepHoloBrain
 
-Official code for
+Code for
 
 > Tingting Dan, Ziquan Wei, Won Hwa Kim, Guorong Wu. **"Exploring the Enigma
 > of Neural Dynamics Through A Scattering-Transform Mixer Landscape for
